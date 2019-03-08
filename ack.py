@@ -1,6 +1,5 @@
 # ack.py
 # Raunak Anand
-# ECS 36A Winter 2019
 # Ackermann Mathematical Function
 #
 
